@@ -1,0 +1,92 @@
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.exe.config
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.exe
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.pdb
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.AssemblyReference.cache
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmChiTietHoaDon.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmDangNhap.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmHoaDon.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Forms.frmKhachHang.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmMain.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmQuanLyTaiKhoan.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmSanPham.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmThongKe.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmXemXML.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Properties.Resources.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.GenerateResource.cache
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.CoreCompileInputs.cache
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.exe
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.pdb
+D:\Báo cáo cuối kỳ môn Công nghệ XML\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Forms.frmNhanVien.resources
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.AssemblyReference.cache
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.exe.config
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmChiTietHoaDon.resources
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmDangNhap.resources
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmHoaDon.resources
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmMain.resources
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmQuanLyTaiKhoan.resources
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmSanPham.resources
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmThongKe.resources
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Properties.Resources.resources
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.GenerateResource.cache
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.CoreCompileInputs.cache
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.exe
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.pdb
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmKhachHang.resources
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmNhanVien.resources
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.exe.config
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.exe
+D:\Visual_Studio\project\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.pdb
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.exe.config
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.exe
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmChiTietHoaDon.resources
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmDangNhap.resources
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmHoaDon.resources
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmKhachHang.resources
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmMain.resources
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmNhanVien.resources
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmQuanLyTaiKhoan.resources
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmSanPham.resources
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmThongKe.resources
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.exe
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.pdb
+C:\Users\Admin\Desktop\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.pdb
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.exe.config
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.exe
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.pdb
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.AssemblyReference.cache
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmChiTietHoaDon.resources
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmDangNhap.resources
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmHoaDon.resources
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmKhachHang.resources
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmMain.resources
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmNhanVien.resources
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmQuanLyTaiKhoan.resources
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmSanPham.resources
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmThongKe.resources
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Properties.Resources.resources
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.GenerateResource.cache
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.CoreCompileInputs.cache
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.exe
+D:\DEMOBTXMLCK\QLBanDoDienTu(New)\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.pdb
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.exe.config
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.exe
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\bin\Debug\QLBanDoDienTu.pdb
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.AssemblyReference.cache
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmChiTietHoaDon.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmDangNhap.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmHoaDon.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmKhachHang.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmMain.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmNhanVien.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmQuanLyTaiKhoan.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmSanPham.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Gui.frmThongKe.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.Properties.Resources.resources
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.GenerateResource.cache
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.csproj.CoreCompileInputs.cache
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.exe
+D:\Báo cáo cuối kỳ môn Công nghệ XML\Tổng hợp các file báo cáo\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\QLBanDoDienTu\obj\Debug\QLBanDoDienTu.pdb

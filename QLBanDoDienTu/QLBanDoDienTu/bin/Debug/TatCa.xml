@@ -1,0 +1,173 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <SANPHAM>
+    <MaSP>SP01</MaSP>
+    <TenSP>Điện thoại Samsung S24</TenSP>
+    <DonGia>21000000.00</DonGia>
+    <SoLuong>50</SoLuong>
+  </SANPHAM>
+  <SANPHAM>
+    <MaSP>SP02</MaSP>
+    <TenSP>Điện thoại iPhone 15 Pro</TenSP>
+    <DonGia>28900000.00</DonGia>
+    <SoLuong>40</SoLuong>
+  </SANPHAM>
+  <SANPHAM>
+    <MaSP>SP03</MaSP>
+    <TenSP>Laptop Dell Inspiron 15</TenSP>
+    <DonGia>18500000.00</DonGia>
+    <SoLuong>30</SoLuong>
+  </SANPHAM>
+  <SANPHAM>
+    <MaSP>SP04</MaSP>
+    <TenSP>Tai nghe AirPods Pro 2</TenSP>
+    <DonGia>5200000.00</DonGia>
+    <SoLuong>100</SoLuong>
+  </SANPHAM>
+  <SANPHAM>
+    <MaSP>SP05</MaSP>
+    <TenSP>Chuột Logitech G102</TenSP>
+    <DonGia>390000.00</DonGia>
+    <SoLuong>150</SoLuong>
+  </SANPHAM>
+  <KHACHHANG>
+    <MaKH>KH01</MaKH>
+    <HoTen>Nguyễn Văn Anh</HoTen>
+    <SDT>0912345678</SDT>
+    <DiaChi>Hà Nội</DiaChi>
+  </KHACHHANG>
+  <KHACHHANG>
+    <MaKH>KH02</MaKH>
+    <HoTen>Trần Thị Bích</HoTen>
+    <SDT>0988123456</SDT>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+  </KHACHHANG>
+  <KHACHHANG>
+    <MaKH>KH03</MaKH>
+    <HoTen>Lê Hoàng Minh</HoTen>
+    <SDT>0909123123</SDT>
+    <DiaChi>Đà Nẵng</DiaChi>
+  </KHACHHANG>
+  <KHACHHANG>
+    <MaKH>KH04</MaKH>
+    <HoTen>Phạm Thu Hà</HoTen>
+    <SDT>0977665544</SDT>
+    <DiaChi>Hải Phòng</DiaChi>
+  </KHACHHANG>
+  <KHACHHANG>
+    <MaKH>KH05</MaKH>
+    <HoTen>Đỗ Quốc Khánh</HoTen>
+    <SDT>0933557799</SDT>
+    <DiaChi>Cần Thơ</DiaChi>
+  </KHACHHANG>
+  <NHANVIEN>
+    <MaNV>NV01</MaNV>
+    <HoTen>Nguyễn Thành Long</HoTen>
+    <ChucVu>Quản lý</ChucVu>
+    <SDT>0909000001</SDT>
+    <DiaChi>Hà Nội</DiaChi>
+  </NHANVIEN>
+  <NHANVIEN>
+    <MaNV>NV02</MaNV>
+    <HoTen>Phạm Quốc Vinh</HoTen>
+    <ChucVu>Bán hàng</ChucVu>
+    <SDT>0909000002</SDT>
+    <DiaChi>HCM</DiaChi>
+  </NHANVIEN>
+  <NHANVIEN>
+    <MaNV>NV03</MaNV>
+    <HoTen>Lê Thị Hồng</HoTen>
+    <ChucVu>Bán hàng</ChucVu>
+    <SDT>0909000003</SDT>
+    <DiaChi>Đà Nẵng</DiaChi>
+  </NHANVIEN>
+  <NHANVIEN>
+    <MaNV>NV04</MaNV>
+    <HoTen>Hồ Trọng Nghĩa</HoTen>
+    <ChucVu>Kế toán</ChucVu>
+    <SDT>0909000004</SDT>
+    <DiaChi>Hà Nội</DiaChi>
+  </NHANVIEN>
+  <NHANVIEN>
+    <MaNV>NV05</MaNV>
+    <HoTen>Vũ Minh Tuấn</HoTen>
+    <ChucVu>Thu ngân</ChucVu>
+    <SDT>0909000005</SDT>
+    <DiaChi>HCM</DiaChi>
+  </NHANVIEN>
+  <HOADON>
+    <MaHD>HD01</MaHD>
+    <MaKH>KH01</MaKH>
+    <MaNV>NV01</MaNV>
+    <NgayLap>2024-01-10T00:00:00+07:00</NgayLap>
+    <TongTien>21000000.00</TongTien>
+  </HOADON>
+  <HOADON>
+    <MaHD>HD02</MaHD>
+    <MaKH>KH03</MaKH>
+    <MaNV>NV02</MaNV>
+    <NgayLap>2024-01-11T00:00:00+07:00</NgayLap>
+    <TongTien>28900000.00</TongTien>
+  </HOADON>
+  <HOADON>
+    <MaHD>HD03</MaHD>
+    <MaKH>KH02</MaKH>
+    <MaNV>NV03</MaNV>
+    <NgayLap>2024-01-12T00:00:00+07:00</NgayLap>
+    <TongTien>5200000.00</TongTien>
+  </HOADON>
+  <HOADON>
+    <MaHD>HD04</MaHD>
+    <MaKH>KH05</MaKH>
+    <MaNV>NV05</MaNV>
+    <NgayLap>2024-01-13T00:00:00+07:00</NgayLap>
+    <TongTien>18500000.00</TongTien>
+  </HOADON>
+  <HOADON>
+    <MaHD>HD05</MaHD>
+    <MaKH>KH04</MaKH>
+    <MaNV>NV04</MaNV>
+    <NgayLap>2024-01-14T00:00:00+07:00</NgayLap>
+    <TongTien>390000.00</TongTien>
+  </HOADON>
+  <CHITIETHOADON>
+    <MaCTHD>CT01</MaCTHD>
+    <MaHD>HD01</MaHD>
+    <MaSP>SP01</MaSP>
+    <DonGia>21000000.00</DonGia>
+    <SoLuong>1</SoLuong>
+    <ThanhTien>21000000.00</ThanhTien>
+  </CHITIETHOADON>
+  <CHITIETHOADON>
+    <MaCTHD>CT02</MaCTHD>
+    <MaHD>HD02</MaHD>
+    <MaSP>SP02</MaSP>
+    <DonGia>28900000.00</DonGia>
+    <SoLuong>1</SoLuong>
+    <ThanhTien>28900000.00</ThanhTien>
+  </CHITIETHOADON>
+  <CHITIETHOADON>
+    <MaCTHD>CT03</MaCTHD>
+    <MaHD>HD03</MaHD>
+    <MaSP>SP04</MaSP>
+    <DonGia>5200000.00</DonGia>
+    <SoLuong>1</SoLuong>
+    <ThanhTien>5200000.00</ThanhTien>
+  </CHITIETHOADON>
+  <CHITIETHOADON>
+    <MaCTHD>CT04</MaCTHD>
+    <MaHD>HD04</MaHD>
+    <MaSP>SP03</MaSP>
+    <DonGia>18500000.00</DonGia>
+    <SoLuong>1</SoLuong>
+    <ThanhTien>18500000.00</ThanhTien>
+  </CHITIETHOADON>
+  <CHITIETHOADON>
+    <MaCTHD>CT05</MaCTHD>
+    <MaHD>HD05</MaHD>
+    <MaSP>SP05</MaSP>
+    <DonGia>390000.00</DonGia>
+    <SoLuong>1</SoLuong>
+    <ThanhTien>390000.00</ThanhTien>
+  </CHITIETHOADON>
+</NewDataSet>

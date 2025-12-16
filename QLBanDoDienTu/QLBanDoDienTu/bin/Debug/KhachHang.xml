@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <KHACHHANG>
+    <MaKH>KH01</MaKH>
+    <HoTen>Nguyễn Văn Anh</HoTen>
+    <SDT>0912345678</SDT>
+    <DiaChi>Hà Nội</DiaChi>
+  </KHACHHANG>
+  <KHACHHANG>
+    <MaKH>KH02</MaKH>
+    <HoTen>Trần Thị Bích</HoTen>
+    <SDT>0988123456</SDT>
+    <DiaChi>Hồ Chí Minh</DiaChi>
+  </KHACHHANG>
+  <KHACHHANG>
+    <MaKH>KH03</MaKH>
+    <HoTen>Lê Hoàng Minh</HoTen>
+    <SDT>0909123123</SDT>
+    <DiaChi>Đà Nẵng</DiaChi>
+  </KHACHHANG>
+  <KHACHHANG>
+    <MaKH>KH04</MaKH>
+    <HoTen>Phạm Thu Hà</HoTen>
+    <SDT>0977665544</SDT>
+    <DiaChi>Hải Phòng</DiaChi>
+  </KHACHHANG>
+  <KHACHHANG>
+    <MaKH>KH05</MaKH>
+    <HoTen>Đỗ Quốc Khánh</HoTen>
+    <SDT>0933557799</SDT>
+    <DiaChi>Cần Thơ</DiaChi>
+  </KHACHHANG>
+</NewDataSet>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <CHITIETHOADON>
+    <MaCTHD>CT01</MaCTHD>
+    <MaHD>HD01</MaHD>
+    <MaSP>SP01</MaSP>
+    <DonGia>21000000.00</DonGia>
+    <SoLuong>1</SoLuong>
+    <ThanhTien>21000000.00</ThanhTien>
+  </CHITIETHOADON>
+  <CHITIETHOADON>
+    <MaCTHD>CT02</MaCTHD>
+    <MaHD>HD02</MaHD>
+    <MaSP>SP02</MaSP>
+    <DonGia>28900000.00</DonGia>
+    <SoLuong>1</SoLuong>
+    <ThanhTien>28900000.00</ThanhTien>
+  </CHITIETHOADON>
+  <CHITIETHOADON>
+    <MaCTHD>CT03</MaCTHD>
+    <MaHD>HD03</MaHD>
+    <MaSP>SP04</MaSP>
+    <DonGia>5200000.00</DonGia>
+    <SoLuong>1</SoLuong>
+    <ThanhTien>5200000.00</ThanhTien>
+  </CHITIETHOADON>
+  <CHITIETHOADON>
+    <MaCTHD>CT04</MaCTHD>
+    <MaHD>HD04</MaHD>
+    <MaSP>SP03</MaSP>
+    <DonGia>18500000.00</DonGia>
+    <SoLuong>1</SoLuong>
+    <ThanhTien>18500000.00</ThanhTien>
+  </CHITIETHOADON>
+  <CHITIETHOADON>
+    <MaCTHD>CT05</MaCTHD>
+    <MaHD>HD05</MaHD>
+    <MaSP>SP05</MaSP>
+    <DonGia>390000.00</DonGia>
+    <SoLuong>1</SoLuong>
+    <ThanhTien>390000.00</ThanhTien>
+  </CHITIETHOADON>
+</NewDataSet>

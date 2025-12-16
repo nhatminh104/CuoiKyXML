@@ -29,69 +29,81 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnXuatFile = new System.Windows.Forms.Button();
+            this.btnXemWeb = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.comboLoai = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(89, 42);
+            this.label1.Location = new System.Drawing.Point(67, 34);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(289, 29);
+            this.label1.Size = new System.Drawing.Size(232, 24);
             this.label1.TabIndex = 8;
             this.label1.Text = "THỐNG KÊ HỆ THỐNG";
             // 
-            // button1
+            // btnXuatFile
             // 
-            this.button1.Location = new System.Drawing.Point(100, 159);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(130, 23);
-            this.button1.TabIndex = 13;
-            this.button1.Text = "Xuất file XML";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnXuatFile.BackColor = System.Drawing.Color.LightBlue;
+            this.btnXuatFile.Location = new System.Drawing.Point(80, 129);
+            this.btnXuatFile.Margin = new System.Windows.Forms.Padding(2);
+            this.btnXuatFile.Name = "btnXuatFile";
+            this.btnXuatFile.Size = new System.Drawing.Size(98, 28);
+            this.btnXuatFile.TabIndex = 13;
+            this.btnXuatFile.Text = "Lưu file";
+            this.btnXuatFile.UseVisualStyleBackColor = false;
             // 
-            // button2
+            // btnXemWeb
             // 
-            this.button2.Location = new System.Drawing.Point(236, 159);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(130, 23);
-            this.button2.TabIndex = 14;
-            this.button2.Text = "Xem trên web";
-            this.button2.UseVisualStyleBackColor = true;
+            this.btnXemWeb.BackColor = System.Drawing.Color.LightCoral;
+            this.btnXemWeb.Location = new System.Drawing.Point(202, 129);
+            this.btnXemWeb.Margin = new System.Windows.Forms.Padding(2);
+            this.btnXemWeb.Name = "btnXemWeb";
+            this.btnXemWeb.Size = new System.Drawing.Size(98, 28);
+            this.btnXemWeb.TabIndex = 14;
+            this.btnXemWeb.Text = "Xem trên web";
+            this.btnXemWeb.UseVisualStyleBackColor = false;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(103, 113);
+            this.label2.Location = new System.Drawing.Point(77, 92);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(123, 16);
+            this.label2.Size = new System.Drawing.Size(102, 13);
             this.label2.TabIndex = 15;
             this.label2.Text = "Chọn loại thống kê: ";
             // 
-            // comboBox1
+            // comboLoai
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(257, 110);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 24);
-            this.comboBox1.TabIndex = 16;
+            this.comboLoai.FormattingEnabled = true;
+            this.comboLoai.Location = new System.Drawing.Point(193, 89);
+            this.comboLoai.Margin = new System.Windows.Forms.Padding(2);
+            this.comboLoai.Name = "comboLoai";
+            this.comboLoai.Size = new System.Drawing.Size(92, 21);
+            this.comboLoai.TabIndex = 16;
+            this.comboLoai.SelectedIndexChanged += new System.EventHandler(this.comboLoai_SelectedIndexChanged);
             // 
             // frmThongKe
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(511, 311);
-            this.Controls.Add(this.comboBox1);
+            this.BackgroundImage = global::QLBanDoDienTu.Properties.Resources.Cac_loai_bieu_do_duong_thuong_gap_cach_ve_bieu_do_duong;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(373, 256);
+            this.Controls.Add(this.comboLoai);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnXemWeb);
+            this.Controls.Add(this.btnXuatFile);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "frmThongKe";
             this.Text = "frmThongKe";
+            this.Load += new System.EventHandler(this.frmThongKe_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -100,9 +112,9 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnXuatFile;
+        private System.Windows.Forms.Button btnXemWeb;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox comboLoai;
     }
 }

@@ -1,10 +1,25 @@
 ﻿using System;
+using System.Data;
 using System.Data.SqlClient;
 
 namespace QLBanDoDienTu.Class
 {
     public class HoaDon
     {
+        public DataTable GetAll()
+        {
+            using (var conn = ConnectDB.GetConnection())
+            {
+                conn.Open();
+                SqlDataAdapter da = new SqlDataAdapter("SELECT MaHD, MaKH, MaNV, NgayLap, TongTien FROM HOADON", conn);
+
+                DataTable dt = new DataTable("HOADON");   // TÊN TABLE RÕ RÀNG
+                da.Fill(dt);
+
+                return dt;
+            }
+        }
+
         public bool KiemTraTonTai(string ma)
         {
             using (var conn = ConnectDB.GetConnection())
@@ -14,7 +29,7 @@ namespace QLBanDoDienTu.Class
                     "SELECT COUNT(*) FROM HOADON WHERE MaHD=@ma", conn);
 
                 cmd.Parameters.AddWithValue("@ma", ma);
-                return (int)cmd.ExecuteScalar() > 0;
+                return Convert.ToInt32(cmd.ExecuteScalar()) > 0;
             }
         }
 
@@ -27,7 +42,28 @@ namespace QLBanDoDienTu.Class
             {
                 conn.Open();
                 SqlCommand cmd = new SqlCommand(
-                    "INSERT INTO HOADON VALUES(@ma,@kh,@nv,@ngay,@tong)", conn);
+                    @"INSERT INTO HOADON(MaHD, MaKH, MaNV, NgayLap, TongTien)
+                      VALUES(@ma,@kh,@nv,@ngay,@tong)", conn);
+
+                cmd.Parameters.AddWithValue("@ma", ma);
+                cmd.Parameters.AddWithValue("@kh", maKH);
+                cmd.Parameters.AddWithValue("@nv", maNV);
+                cmd.Parameters.AddWithValue("@ngay", ngayLap);
+                cmd.Parameters.AddWithValue("@tong", tongTien);
+
+                cmd.ExecuteNonQuery();
+            }
+        }
+
+        public void Sua(string ma, string maKH, string maNV, DateTime ngayLap, decimal tongTien)
+        {
+            using (var conn = ConnectDB.GetConnection())
+            {
+                conn.Open();
+                SqlCommand cmd = new SqlCommand(
+                    @"UPDATE HOADON 
+                      SET MaKH=@kh, MaNV=@nv, NgayLap=@ngay, TongTien=@tong
+                      WHERE MaHD=@ma", conn);
 
                 cmd.Parameters.AddWithValue("@ma", ma);
                 cmd.Parameters.AddWithValue("@kh", maKH);

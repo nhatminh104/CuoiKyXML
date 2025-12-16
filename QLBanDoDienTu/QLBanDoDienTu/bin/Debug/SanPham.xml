@@ -1,0 +1,33 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <SANPHAM>
+    <MaSP>SP01</MaSP>
+    <TenSP>Điện thoại Samsung S24</TenSP>
+    <DonGia>21000000.00</DonGia>
+    <SoLuong>50</SoLuong>
+  </SANPHAM>
+  <SANPHAM>
+    <MaSP>SP02</MaSP>
+    <TenSP>Điện thoại iPhone 15 Pro</TenSP>
+    <DonGia>28900000.00</DonGia>
+    <SoLuong>40</SoLuong>
+  </SANPHAM>
+  <SANPHAM>
+    <MaSP>SP03</MaSP>
+    <TenSP>Laptop Dell Inspiron 15</TenSP>
+    <DonGia>18500000.00</DonGia>
+    <SoLuong>30</SoLuong>
+  </SANPHAM>
+  <SANPHAM>
+    <MaSP>SP04</MaSP>
+    <TenSP>Tai nghe AirPods Pro 2</TenSP>
+    <DonGia>5200000.00</DonGia>
+    <SoLuong>100</SoLuong>
+  </SANPHAM>
+  <SANPHAM>
+    <MaSP>SP05</MaSP>
+    <TenSP>Chuột Logitech G102</TenSP>
+    <DonGia>390000.00</DonGia>
+    <SoLuong>150</SoLuong>
+  </SANPHAM>
+</NewDataSet>

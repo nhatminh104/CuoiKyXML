@@ -51,6 +51,7 @@
     <Compile Include="Class\HoaDon.cs" />
     <Compile Include="Class\KhachHang.cs" />
     <Compile Include="Class\NhanVien.cs" />
+    <Compile Include="Class\PhienDangNhap.cs" />
     <Compile Include="Class\SanPham.cs" />
     <Compile Include="Class\TaiKhoan.cs" />
     <Compile Include="Class\XuLyXML.cs" />
@@ -108,12 +109,6 @@
     <Compile Include="Gui\frmThongKe.Designer.cs">
       <DependentUpon>frmThongKe.cs</DependentUpon>
     </Compile>
-    <Compile Include="Gui\frmXemXML.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Gui\frmXemXML.Designer.cs">
-      <DependentUpon>frmXemXML.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Gui\frmChiTietHoaDon.resx">
@@ -143,9 +138,6 @@
     <EmbeddedResource Include="Gui\frmThongKe.resx">
       <DependentUpon>frmThongKe.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Gui\frmXemXML.resx">
-      <DependentUpon>frmXemXML.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -154,6 +146,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -168,6 +161,35 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Images\main.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6681221.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2025-12-14 130739.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2025-12-14 131519.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2025-12-14 131815.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2025-12-14 132155.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ảnh chụp màn hình 2025-12-14 133022.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-blue-magnifying-glass-classification-icon-image_1356967.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\63047179-diseño-de-ilustración-de-vector-de-icono-de-concepto-de-negocio-de-crecimiento.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cac-loai-bieu-do-duong-thuong-gap-cach-ve-bieu-do-duong.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

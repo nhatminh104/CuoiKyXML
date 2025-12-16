@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <NHANVIEN>
+    <MaNV>NV01</MaNV>
+    <HoTen>Nguyễn Thành Long</HoTen>
+    <ChucVu>Quản lý</ChucVu>
+    <SDT>0909000001</SDT>
+    <DiaChi>Hà Nội</DiaChi>
+  </NHANVIEN>
+  <NHANVIEN>
+    <MaNV>NV02</MaNV>
+    <HoTen>Phạm Quốc Vinh</HoTen>
+    <ChucVu>Bán hàng</ChucVu>
+    <SDT>0909000002</SDT>
+    <DiaChi>HCM</DiaChi>
+  </NHANVIEN>
+  <NHANVIEN>
+    <MaNV>NV03</MaNV>
+    <HoTen>Lê Thị Hồng</HoTen>
+    <ChucVu>Bán hàng</ChucVu>
+    <SDT>0909000003</SDT>
+    <DiaChi>Đà Nẵng</DiaChi>
+  </NHANVIEN>
+  <NHANVIEN>
+    <MaNV>NV04</MaNV>
+    <HoTen>Hồ Trọng Nghĩa</HoTen>
+    <ChucVu>Kế toán</ChucVu>
+    <SDT>0909000004</SDT>
+    <DiaChi>Hà Nội</DiaChi>
+  </NHANVIEN>
+  <NHANVIEN>
+    <MaNV>NV05</MaNV>
+    <HoTen>Vũ Minh Tuấn</HoTen>
+    <ChucVu>Thu ngân</ChucVu>
+    <SDT>0909000005</SDT>
+    <DiaChi>HCM</DiaChi>
+  </NHANVIEN>
+</NewDataSet>

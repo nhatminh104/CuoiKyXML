@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <HOADON>
+    <MaHD>HD01</MaHD>
+    <MaKH>KH01</MaKH>
+    <MaNV>NV01</MaNV>
+    <NgayLap>2024-01-10T00:00:00+07:00</NgayLap>
+    <TongTien>21000000.00</TongTien>
+  </HOADON>
+  <HOADON>
+    <MaHD>HD02</MaHD>
+    <MaKH>KH03</MaKH>
+    <MaNV>NV02</MaNV>
+    <NgayLap>2024-01-11T00:00:00+07:00</NgayLap>
+    <TongTien>28900000.00</TongTien>
+  </HOADON>
+  <HOADON>
+    <MaHD>HD03</MaHD>
+    <MaKH>KH02</MaKH>
+    <MaNV>NV03</MaNV>
+    <NgayLap>2024-01-12T00:00:00+07:00</NgayLap>
+    <TongTien>5200000.00</TongTien>
+  </HOADON>
+  <HOADON>
+    <MaHD>HD04</MaHD>
+    <MaKH>KH05</MaKH>
+    <MaNV>NV05</MaNV>
+    <NgayLap>2024-01-13T00:00:00+07:00</NgayLap>
+    <TongTien>18500000.00</TongTien>
+  </HOADON>
+  <HOADON>
+    <MaHD>HD05</MaHD>
+    <MaKH>KH04</MaKH>
+    <MaNV>NV04</MaNV>
+    <NgayLap>2024-01-14T00:00:00+07:00</NgayLap>
+    <TongTien>390000.00</TongTien>
+  </HOADON>
+</NewDataSet>

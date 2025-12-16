@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+using QLBanDoDienTu.Gui;
 
 namespace QLBanDoDienTu
 {
@@ -16,7 +14,9 @@ namespace QLBanDoDienTu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            
+            // Khởi chạy form đăng nhập đầu tiên
+            Application.Run(new frmDangNhap());
         }
     }
 }
